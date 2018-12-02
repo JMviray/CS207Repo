@@ -1,6 +1,9 @@
 # CS207Repo
 Requirements and Materials
 =========
+Dependencies
+*https://www.arduinolibraries.info/libraries/dht-sensor-library
+*https://www.arduinolibraries.info/libraries/ssd1306
 Bill of Materials
 * 1 x Arduino Nano R3 or Arduino Uno
 * 1 x DHT11 Temperature and Humidity Sensor
