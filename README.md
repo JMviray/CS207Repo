@@ -1,4 +1,5 @@
-# CS207Repo
+Make Your Plant Smart
+=========
 Requirements and Materials
 =========
 Dependencies
