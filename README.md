@@ -13,6 +13,12 @@ Bill of Materials
 * 1 x 150V 5mm Photoresistor Sensor
 * 1 x TinyShield Ribbon Cable Extender
 
+Build Steps
+========
+* The OLED display pin header should be desoldered.
+* Separate the OLED display from the board which provides the SPI communications, the board is placed in a wet sand, to also hide the wires.
+*  Solder the wires to the board, make all the connections and components waterproof because the board is going to be placed in a wet sand.
+* 
 Team
 ========
 * John Michael Viray
