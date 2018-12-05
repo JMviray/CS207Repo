@@ -27,7 +27,8 @@ Build Steps
 ![alt text][pic2]
 
 [pic2]: https://github.com/JMviray/CS207Repo/blob/master/imge/3EF274E3-BBE3-4A17-96FB-7AF8FDFE360C.jpeg
-* 
+
+
 Team
 ========
 * John Michael Viray
