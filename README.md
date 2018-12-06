@@ -1,6 +1,6 @@
 Make Your Plant Smart
 =========
-
+The project we planned to build is the construction of the Make Your Plant Smart Arduino Project. In this project, we are going to monitor the plant's condition using the 3 sensor we have used for this project. The sensor that we have used are Humidity and temperature sensor, soil moisture sensor and the photoresisitor. with these sensors, we are able to monitor the temperature and humidity as well as the light that coming towards the plant and the moisture of the soil. Using the Make your plant smart, we can atleast help people specially those who are beginners in taking care of plants.
 ![alt text][pic1]
 
 [pic1]: https://github.com/JMviray/CS207Repo/blob/master/imge/E0C56E03-CB5C-4D65-AB56-125FC032976E.jpeg
