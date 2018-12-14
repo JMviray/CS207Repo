@@ -25,10 +25,13 @@ Build Steps
 * Separate the OLED display from the board which provides the SPI communications, the board is placed in a wet sand, to also hide the wires.
 *  Solder the wires to the board, make all the connections and components waterproof because the board is going to be placed in a wet sand.
 ![alt text][pic2]
-* Our moisture sensor has only 2 pins, for ground and 5V, but we need three so we used an amplifier. We also made it waterproof.
-
 [pic2]: https://github.com/JMviray/CS207Repo/blob/master/imge/3EF274E3-BBE3-4A17-96FB-7AF8FDFE360C.jpeg
-
+* Our moisture sensor has only 2 pins, for ground and 5V, but we need three so we used an amplifier. We also made it waterproof.
+![alt text][pic3]
+[pic3]: https://github.com/JMviray/CS207Repo/blob/master/imge/48393081_2153541184960250_1916917786232225792_n.jpg
+* The temperature sensor was connected with a 10k ohm between ground and sensor's pin, then make it waterproof.
+![alt text][pic4]
+[pic4]: https://github.com/JMviray/CS207Repo/blob/master/imge/48056236_2086813271568226_8072528020813905920_n.jpg
 ========
 What we have worked on today is that, we've tried to work on with our OLED project. I don't know if the problem is on the connection or the problem is the display module itself. We have tried our very best to make it work with our project but it really fails to work. So, the other plan for display has been made. We have decided to put all the reading in the serial monitor to display all the readings that the people need to see for their plant's condition. We have also presented our project in front of the class successfully. 
 
