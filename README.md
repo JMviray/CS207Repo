@@ -41,6 +41,11 @@ Build Steps
 * Empty some sand from your plant's pot and bury the the board and soil sensor leaving the temperature sensor outside.
 * And we're all set!
 
+Firmware Installation
+=========
+* Ensure you change Pins in code to relevant Pins used on Arduino for sensors and OLED.
+* Use Arduino IDE to upload Code to Arduino Uno or Nano.
+
 Usage
 ========
 * Measures the plants condition through sensors.
