@@ -25,6 +25,7 @@ Build Steps
 * Separate the OLED display from the board which provides the SPI communications, the board is placed in a wet sand, to also hide the wires.
 *  Solder the wires to the board, make all the connections and components waterproof because the board is going to be placed in a wet sand.
 ![alt text][pic2]
+* Our moisture sensor has only 2 pins, for ground and 5V, but we need three so we used an amplifier. We also made it waterproof.
 
 [pic2]: https://github.com/JMviray/CS207Repo/blob/master/imge/3EF274E3-BBE3-4A17-96FB-7AF8FDFE360C.jpeg
 
@@ -33,5 +34,6 @@ What we have worked on today is that, we've tried to work on with our OLED proje
 
 Team
 ========
+The tasks of doing this project,from ordering the materials, to building it, are equally worked together. 
 * John Michael Viray
 * Ma Lourdes Tambanillo
