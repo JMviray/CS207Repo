@@ -38,6 +38,16 @@ Build Steps
 
 [pic4]: https://github.com/JMviray/CS207Repo/blob/master/imge/48056236_2086813271568226_8072528020813905920_n.jpg
 
+* Empty some sand from your plant's pot and bury the the board and soil sensor leaving the temperature sensor outside.
+* And we're all set!
+
+Usage
+========
+* Measures the plants condition through sensors.
+* The OLED displays what the plants conditions are.
+
+
+Presentation Day
 ========
 What we have worked on today is that, we've tried to work on with our OLED project. I don't know if the problem is on the connection or the problem is the display module itself. We have tried our very best to make it work with our project but it really fails to work. So, the other plan for display has been made. We have decided to put all the reading in the serial monitor to display all the readings that the people need to see for their plant's condition. We have also presented our project in front of the class successfully. 
 
@@ -46,3 +56,8 @@ Team
 The tasks of doing this project,from ordering the materials, to building it, are equally worked together. 
 * John Michael Viray
 * Ma Lourdes Tambanillo
+
+Credits
+=======
+“Make Your Plant SMART! By Arduino.” Arduino Project Hub,
+create.arduino.cc/projecthub/electropeak/make-your-plant-smart-by-arduino-01c462.
